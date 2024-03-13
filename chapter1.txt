@@ -1,4 +1,4 @@
 Chapter 1:
-Once upon a time, in a town named "Init", lived an enthusiastic explorer named Git.
+Some changes made Once upon a time, in a town named "Init", lived an enthusiastic explorer named Git.
 Git was well-known for his curiosity and eagerness to learn.
 Editted: 1.1
